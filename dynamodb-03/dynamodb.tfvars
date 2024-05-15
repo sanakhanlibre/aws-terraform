@@ -1,0 +1,11 @@
+table_name = "test"
+billing_mode = "PROVISIONED"
+read_capacity = 5
+write_capacity = 5
+hash_key = "userID"
+range_key = "income"
+attr1 = "userID"
+attr2 = "age"
+attr3 = "income"
+tags = "test"
+env = "test"
